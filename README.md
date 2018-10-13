@@ -1,4 +1,3 @@
-<img src="http://truffleframework.com/docs/img/logo.png" width="200">
 
 [![npm](https://img.shields.io/npm/v/truffle.svg)]()
 [![npm](https://img.shields.io/npm/dm/truffle.svg)]()
@@ -7,7 +6,7 @@
 -----------------------
 
 
-Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier. With Truffle, you get:
+Truffle is a development environment, testing framework and asset pipeline for MOAC, aiming to make life as an MOAC developer easier. With Truffle, you get:
 
 * Built-in smart contract compilation, linking, deployment and binary management.
 * Automated contract testing with Mocha and Chai.
@@ -21,7 +20,7 @@ Truffle is a development environment, testing framework and asset pipeline for E
 ### Install
 
 ```
-$ npm install -g truffle
+$ npm install -g moactruffle
 ```
 
 ### Quick Usage
