@@ -22,7 +22,7 @@ $ npm install -g moactruffle
 For a default set of contracts and tests, run the following within an empty project directory:
 
 ```
-$ truffle init
+$ moactruffle init
 ```
 
 From there, you can run `truffle compile`, `truffle migrate` and `truffle test` to compile your contracts, deploy those contracts to the network, and run their associated unit tests.
