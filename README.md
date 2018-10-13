@@ -37,6 +37,11 @@ Truffle comes bundled with a local development blockchain server that launches a
 
 Please see the [Official Truffle Documentation](http://truffleframework.com/docs/) for guides, tips, and examples.
 
+The sole difference is Add maoc before Truffle.
+
+
+
+
 ### Contributing
 
 This package is a distribution package of the Truffle command line tool. Please see [truffle-core](https://github.com/trufflesuite/truffle-core) to contribute to the main core code.
