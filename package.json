@@ -1,8 +1,8 @@
 {
-  "name": "truffle",
+  "name": "moactruffle",
   "namespace": "consensys",
   "version": "5.0.0-beta.1",
-  "description": "Truffle - Simple development framework for Ethereum",
+  "description": "Truffle - Simple development framework for moac",
   "dependencies": {
     "mocha": "^4.1.0",
     "original-require": "1.0.1",
@@ -46,18 +46,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trufflesuite/truffle.git"
+    "url": "https://github.com/dacelee/moactruffle.git"
   },
-  "homepage": "https://github.com/trufflesuite/truffle/",
+  "homepage": "https://github.com/dacelee/moactruffle",
   "bugs": {
-    "url": "https://github.com/trufflesuite/truffle/issues"
+    "url": "https://github.com/dacelee/moactruffle/issues"
   },
-  "author": "consensys.net",
+  "author": "moacdev.com",
   "authors": [
     {
       "name": "Tim Coulter",
       "email": "tim@timothyjcoulter.com",
-      "url": "https://github.com/tcoulter"
+      "url": "https://github.com/dacelee"
     }
   ],
   "publishConfig": {
